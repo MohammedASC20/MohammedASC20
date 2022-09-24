@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MohammedASC20
-- 👀 I’m interested in video games!
 - 🌱 I’m currently learning to code through javascript. 
 - 💞️ I’m looking to collaborate on projects at ASC.
 - 📫 mohammedkhan0015@afscholars.org
